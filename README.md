@@ -1,44 +1,7 @@
-# LFCS Training Resources
+# grok GNU/Linux
+### Task-based learning materials by
+#### sean@webio.me | sean.obrien@yale.edu
 
-Training resources for LFCS certification (Linux Foundation Certified System Administrator)
+The **grok-gnu-linux.md** MarkDown is written for [Marp](https://yhatt.github.io/marp/), and is best viewed as the PDF output **grok-gnu-linux.pdf**
 
-## Overview of Domains and Competencies
-
-**Command-line**
-- Editing text files on the command line
-- Manipulating text files from the command line
-
-**Filesystem & storage**
-- Archiving and compressing files and directories
-- Assembling partitions as LVM devices
-- Configuring swap partitions
-- File attributes
-- Finding files on the filesystem
-- Formatting filesystems
-- Mounting filesystems automatically at boot time
-- Mounting networked filesystems
-- Partitioning storage devices
-- Troubleshooting filesystem issues
-
-**Local system administration**
-- Creating backups
-- Creating local user groups
-- Managing file permissions
-- Managing fstab entries
-- Managing local users accounts
-- Managing the startup process and related services
-- Managing user accounts
-- Managing user account attributes
-- Managing user processes
-- Restoring backed up data
-- Setting file permissions and ownership
-
-**Local security**
-- Accessing the root account
-- Using sudo to manage access to the root account
-
-**Shell scripting**
-- Basic bash shell scripting
-
-**Software management**
-- Installing software packages
+[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
